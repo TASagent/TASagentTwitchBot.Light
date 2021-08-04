@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "TASagentTwitchBot.NoTTSDemo": {
+    "TASagentTwitchBot.Light": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": false,
